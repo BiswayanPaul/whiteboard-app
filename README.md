@@ -86,11 +86,11 @@ npm install
 ### TypeScript Configuration
 The project uses a tsconfig.json file to define compiler options. Key configurations include:
 
-Target: ES2016
-Module: commonjs
-Root Directory: ./src
-Output Directory: ./dist
-Strict Mode: enabled for type-checking.
+- Target: ES2016
+- Module: commonjs
+- Root Directory: ./src
+- Output Directory: ./dist
+- Strict Mode: enabled for type-checking.
 For more details, you can explore the tsconfig.json file.
 
 ### Running the Server
