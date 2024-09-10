@@ -105,3 +105,10 @@ npx tsc -b
 ```bash
 node dist/index.js
 ```
+
+### Running the Application
+Once everything is set up, you can start the development server:
+
+```bash
+npm run dev
+```
